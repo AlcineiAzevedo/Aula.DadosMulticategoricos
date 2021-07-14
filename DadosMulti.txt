@@ -1,0 +1,7 @@
+Trat	Corflor	FormatoFruto	CorTegumento
+G1	Vermelho	Oval	Amarelo
+G2	Vermelho	Oval	Preto
+G3	Amarelo	Oval	Amarelo
+G4	Branca	Alongado	Branco
+G5	Vermelho	Alongado	Vermelho
+G6	Amarelo	Oval	Amarelo
